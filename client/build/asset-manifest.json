@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd766982.css",
+    "main.js": "/static/js/main.a05fcab5.js",
+    "static/js/816.e87af5ca.chunk.js": "/static/js/816.e87af5ca.chunk.js",
+    "static/js/921.8f76be82.chunk.js": "/static/js/921.8f76be82.chunk.js",
+    "static/media/primeicons.svg": "/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "static/media/hero-1.png": "/static/media/hero-1.0178bc89859d9707af58.png",
+    "static/media/whagile-logo.png": "/static/media/whagile-logo.08e5bb1a4e925cdea11b.png",
+    "static/media/lato-v17-latin-ext_latin-300.woff": "/static/media/lato-v17-latin-ext_latin-300.d627195ef5d923aca703.woff",
+    "static/media/lato-v17-latin-ext_latin-regular.woff": "/static/media/lato-v17-latin-ext_latin-regular.10ba787081e3803ee682.woff",
+    "static/media/lato-v17-latin-ext_latin-700.woff": "/static/media/lato-v17-latin-ext_latin-700.0421cae97d663331048e.woff",
+    "static/media/lato-v17-latin-ext_latin-regular.woff2": "/static/media/lato-v17-latin-ext_latin-regular.01a9f39134a05dc8eff9.woff2",
+    "static/media/lato-v17-latin-ext_latin-300.woff2": "/static/media/lato-v17-latin-ext_latin-300.df0b586402822891d90b.woff2",
+    "static/media/lato-v17-latin-ext_latin-700.woff2": "/static/media/lato-v17-latin-ext_latin-700.506aaf7f49928f0a3798.woff2",
+    "index.html": "/index.html",
+    "main.bd766982.css.map": "/static/css/main.bd766982.css.map",
+    "main.a05fcab5.js.map": "/static/js/main.a05fcab5.js.map",
+    "816.e87af5ca.chunk.js.map": "/static/js/816.e87af5ca.chunk.js.map",
+    "921.8f76be82.chunk.js.map": "/static/js/921.8f76be82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd766982.css",
+    "static/js/main.a05fcab5.js"
+  ]
+}

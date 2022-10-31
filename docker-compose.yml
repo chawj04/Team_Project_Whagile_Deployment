@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  webapp:
+    image: delafos/react-server
+    ports:
+      - '80:80'
+      - '443:443'
+    depends_on:
+      - app
+    volumes:
+      - ./app/build
+      - ./certbot-etc:/etc/letsencrypt
+
+  app:
+    image: delafos/express-server
+    ports:
+      - '8888:8888'
+
+  certbot:
+    depends_on:
+      - webapp
+    image: certbot/certbot
+    container_name: certbot
+    volumes:
+      - ./certbot-etc:/etc/letsencrypt
+      - ./app/build
+    command: certonly --dry-run --webroot --webroot-path=/app/build --email gustlf063@gmail.com --agree-tos --no-eff-email --keep-until-expiring -d whagiles.shop -d www.whaigles.shop
