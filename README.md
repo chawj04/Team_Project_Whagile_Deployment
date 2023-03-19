@@ -2,12 +2,6 @@
 
 ![whagile](https://user-images.githubusercontent.com/97301076/191328749-e67c1594-5d77-43e6-80a4-c3cc5259f648.png)
 
-### 배포 주소 : http://whagiles.shop
-
-    아이디 및 비밀번호
-    [ User ] - wujin / 1234
-    [ Admin ] - admin / 1234
-
 ### [ 팀 프로젝트를 따로 배포한 이유 ]<br>
 
 배포 역할을 맡은 구성원이 있었으나, 프로젝트가 끝나고 `Docker`를 공부하면서 직접 배포해보고 싶었습니다.<br><br>
